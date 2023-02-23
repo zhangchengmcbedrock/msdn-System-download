@@ -14,7 +14,7 @@ windows 7  (sp1)
 windows 8  
 windows 8.1  
 windows 10(update)  
-windows 11(update) 
+windows 11(update)  
 windows Server 2003  
 windows Server 2003 r2 
 windows Server 2008
