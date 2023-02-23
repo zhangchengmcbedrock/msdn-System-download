@@ -7,10 +7,10 @@ windows 3.2
 windows 98  
 windows me  
 windows nt 4.0  
-windows 2000  (sp4)
-windows xp (sp1/sp2/sp3)
-windows vista  (sp1/sp2)
-windows 7  (sp1)
+windows 2000  (sp4)  
+windows xp (sp1/sp2/sp3)  
+windows vista  (sp1/sp2)  
+windows 7  (sp1)  
 windows 8  
 windows 8.1  
 windows 10(update)  
