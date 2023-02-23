@@ -16,8 +16,8 @@ windows 8.1
 windows 10(update)  
 windows 11(update)  
 windows Server 2003  
-windows Server 2003 r2 
-windows Server 2008
+windows Server 2003 r2   
+windows Server 2008  
 windows Server 2008 r2  
 windows Server 2012  
 windows Server 2012 r2  
