@@ -5,6 +5,11 @@
 Enterprise solutions 文件夹 企业解决方案   
 MSDN Technical Resource Library 文件夹 MSDN 技术资源库   
 Tools and resources 文件夹 工具和资源   
+application 文件夹 应用程序   
+Developer tools 文件夹 开发人员工具  
+operating system 文件夹 操作系统   
+server 文件夹 服务器    
+Designer tools 文件夹 设计人员工具   
 
 
 
