@@ -1,6 +1,11 @@
 # msdn-System-download
 第三方MSDN系统下载  
 这是从msdn我告诉你搬运过来的。   
+文件夹介绍   
+Enterprise solutions 文件夹 企业解决方案   
+MSDN Technical Resource Library 文件夹 MSDN 技术资源库
+
+
 搬运系统有：  
 windows 3.1  
 windows 3.2  
