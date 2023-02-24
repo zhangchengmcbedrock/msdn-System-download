@@ -3,7 +3,9 @@
 这是从msdn我告诉你搬运过来的。   
 文件夹介绍   
 Enterprise solutions 文件夹 企业解决方案   
-MSDN Technical Resource Library 文件夹 MSDN 技术资源库
+MSDN Technical Resource Library 文件夹 MSDN 技术资源库   
+Tools and resources 文件夹 工具和资源   
+
 
 
 搬运系统有：  
